@@ -1,7 +1,4 @@
-#include<vector>
-#include<queue>
-#include<iostream>
-#include<pair>
+#include <bits/stdc++.h>
 using namespace std;
 
 class GameBoard{
